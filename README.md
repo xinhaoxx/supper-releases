@@ -52,9 +52,11 @@
 
 | 截图 | 说明 |
 |---|---|
-| ![step1](screenshots/step1.png) | 选择字幕和视频目录 |
-| ![step2](screenshots/step2.png) | 检查匹配结果并编辑 |
-| ![step3](screenshots/step3.png) | 重命名完成 |
+| ![首页](screenshots/home.png) | 首页 |
+| ![拖放文件夹](screenshots/drag.png) | 拖放字幕和视频文件夹 |
+| ![扫描匹配](screenshots/match.png) | 自动识别集数编号并匹配 |
+| ![检查结果](screenshots/review.png) | 检查匹配结果、编辑目标文件名 |
+| ![操作完成](screenshots/done.png) | 重命名完成，可撤销或查看详情 |
 
 ## 反馈
 

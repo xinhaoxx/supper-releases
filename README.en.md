@@ -52,9 +52,11 @@ Download the latest version for your platform from the [Releases](https://github
 
 | Screenshot | Description |
 |---|---|
-| ![step1](screenshots/step1.png) | Select subtitle and video directories |
-| ![step2](screenshots/step2.png) | Review and edit match results |
-| ![step3](screenshots/step3.png) | Rename complete |
+| ![Home](screenshots/home.png) | Home page |
+| ![Drag & Drop](screenshots/drag.png) | Drag and drop subtitle and video folders |
+| ![Scan & Match](screenshots/match.png) | Auto-detect episode numbers and match |
+| ![Review](screenshots/review.png) | Review matches and edit target filenames |
+| ![Done](screenshots/done.png) | Rename complete with undo and details |
 
 ## Feedback
 
