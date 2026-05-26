@@ -1,5 +1,7 @@
 # Supper
 
+[中文](README.md) | English
+
 > Video-subtitle matching · Batch rename · Fully offline
 
 A desktop tool for batch renaming subtitle files. Automatically detects episode numbers in filenames, matches subtitles to corresponding videos, and renames them so your media player can auto-load subtitles.
