@@ -50,13 +50,30 @@ Download the latest version for your platform from the [Releases](https://github
 
 ## Screenshots
 
-| Screenshot | Description |
-|---|---|
-| ![Home](screenshots/home.png) | Home page |
-| ![Drag & Drop](screenshots/drag.png) | Drag and drop subtitle and video folders |
-| ![Scan & Match](screenshots/match.png) | Auto-detect episode numbers and match |
-| ![Review](screenshots/review.png) | Review matches and edit target filenames |
-| ![Done](screenshots/done.png) | Rename complete with undo and details |
+<p align="center">
+  <img src="screenshots/home.png" alt="Home" width="600" />
+  <br><sub>Home page</sub>
+</p>
+
+<p align="center">
+  <img src="screenshots/drag.png" alt="Drag & Drop" width="600" />
+  <br><sub>Drag and drop subtitle and video folders</sub>
+</p>
+
+<p align="center">
+  <img src="screenshots/match.png" alt="Scan & Match" width="600" />
+  <br><sub>Auto-detect episode numbers and match</sub>
+</p>
+
+<p align="center">
+  <img src="screenshots/review.png" alt="Review" width="600" />
+  <br><sub>Review matches and edit target filenames</sub>
+</p>
+
+<p align="center">
+  <img src="screenshots/done.png" alt="Done" width="600" />
+  <br><sub>Rename complete with undo and details</sub>
+</p>
 
 ## Feedback
 

@@ -50,13 +50,30 @@
 
 ## 软件截图
 
-| 截图 | 说明 |
-|---|---|
-| ![首页](screenshots/home.png) | 首页 |
-| ![拖放文件夹](screenshots/drag.png) | 拖放字幕和视频文件夹 |
-| ![扫描匹配](screenshots/match.png) | 自动识别集数编号并匹配 |
-| ![检查结果](screenshots/review.png) | 检查匹配结果、编辑目标文件名 |
-| ![操作完成](screenshots/done.png) | 重命名完成，可撤销或查看详情 |
+<p align="center">
+  <img src="screenshots/home.png" alt="首页" width="600" />
+  <br><sub>首页</sub>
+</p>
+
+<p align="center">
+  <img src="screenshots/drag.png" alt="拖放文件夹" width="600" />
+  <br><sub>拖放字幕和视频文件夹</sub>
+</p>
+
+<p align="center">
+  <img src="screenshots/match.png" alt="扫描匹配" width="600" />
+  <br><sub>自动识别集数编号并匹配</sub>
+</p>
+
+<p align="center">
+  <img src="screenshots/review.png" alt="检查结果" width="600" />
+  <br><sub>检查匹配结果、编辑目标文件名</sub>
+</p>
+
+<p align="center">
+  <img src="screenshots/done.png" alt="操作完成" width="600" />
+  <br><sub>重命名完成，可撤销或查看详情</sub>
+</p>
 
 ## 反馈
 
