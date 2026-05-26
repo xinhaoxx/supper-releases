@@ -1,4 +1,8 @@
-# Supper
+<p align="center">
+  <img src="app-icon.svg" alt="Supper" width="96" height="96" />
+</p>
+
+<h1 align="center">Supper</h1>
 
 [English](README.en.md) | 中文
 
@@ -43,6 +47,14 @@
 - 重命名后可一键撤销
 - 简体中文 / 繁體中文 / English
 - 设置页一键检查更新
+
+## 软件截图
+
+| 截图 | 说明 |
+|---|---|
+| ![step1](screenshots/step1.png) | 选择字幕和视频目录 |
+| ![step2](screenshots/step2.png) | 检查匹配结果并编辑 |
+| ![step3](screenshots/step3.png) | 重命名完成 |
 
 ## 反馈
 

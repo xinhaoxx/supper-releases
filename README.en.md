@@ -1,4 +1,8 @@
-# Supper
+<p align="center">
+  <img src="app-icon.svg" alt="Supper" width="96" height="96" />
+</p>
+
+<h1 align="center">Supper</h1>
 
 [中文](README.md) | English
 
@@ -43,6 +47,14 @@ Download the latest version for your platform from the [Releases](https://github
 - One-click undo after rename
 - UI in Simplified Chinese, Traditional Chinese, and English
 - Built-in update checker
+
+## Screenshots
+
+| Screenshot | Description |
+|---|---|
+| ![step1](screenshots/step1.png) | Select subtitle and video directories |
+| ![step2](screenshots/step2.png) | Review and edit match results |
+| ![step3](screenshots/step3.png) | Rename complete |
 
 ## Feedback
 
