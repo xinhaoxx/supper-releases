@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="app-icon.svg" alt="Supper" width="96" height="96" />
+  <picture>
+    <source srcset="app-icon-white.svg" media="(prefers-color-scheme: dark)" />
+    <img src="app-icon.svg" alt="Supper" width="96" height="96" />
+  </picture>
 </p>
 
 <h1 align="center">Supper</h1>
@@ -8,20 +11,32 @@
 
 > Video-subtitle matching · Batch rename · Fully offline
 
-A desktop tool for batch renaming subtitle files. Automatically detects episode numbers in filenames, matches subtitles to corresponding videos, and renames them so your media player can auto-load subtitles.
+A desktop tool for batch renaming subtitle files. Automatically detects season and episode numbers from filenames and folder names, supports recursive multi-season scanning and archive extraction, matches subtitles to videos, and renames them so your media player can auto-load subtitles.
 
 ## Download
 
 Download the latest version for your platform from the [Releases](https://github.com/xinhaoxx/supper-releases/releases) page.
 
-- **macOS**: Download `.dmg` or `.zip`
-- **Windows**: Download `.exe` installer
+- **macOS**: Download `.dmg` (ARM64, also works on Intel)
+- **Windows**: Download `.msi` installer
 
 ## Features
 
-1. **Select directories** — Browse or drag-and-drop subtitle/video folders
-2. **Auto match** — Detects episode numbers (S01E02, 1x02, E01, etc.) and matches automatically
-3. **Confirm rename** — Review results, edit target filenames, batch rename with one click
+### Core Workflow
+
+1. **Select directory or archive** — Browse/drag subtitle folders or .zip/.rar/.7z archives, select video folder
+2. **Auto scan & match** — Recursively scan subfolders, detect season & episode numbers, match automatically
+3. **Review & rename** — View results grouped by season, edit filenames, batch rename or copy-rename
+
+### Highlights
+
+- **Multi-season matching** — Supports S01/S02, Season 1/Season 2 folder structures with recursive scanning
+- **Season grouping** — Results grouped by season with collapsible sections
+- **Archive support** — Subtitle source supports .zip/.rar/.7z, nested archives auto-extracted recursively
+- **Season conflict detection** — Alerts when multiple folders resolve to the same season number
+- **Folder name inference** — Extracts season from folder names (S01, Season 1, etc.) when filenames lack season info
+- **Copy & rename** — Copy subtitles to video folder before renaming, preserving originals
+- **Dark mode** — Auto / Light / Dark appearance modes
 
 ### Supported Episode Formats
 
@@ -39,12 +54,16 @@ Download the latest version for your platform from the [Releases](https://github
 
 **Subtitle**: `.srt` `.ass` `.ssa` `.vtt` `.sub` `.idx` `.sup`
 
+**Archive**: `.zip` `.rar` `.7z`
+
 ### More Features
 
 - Per-item checkboxes to select which files to rename
-- Manual matching for subtitles that couldn't be auto-matched
+- Manual matching for unmatched subtitles
+- Search filter for matched list
+- Single-line / multi-line editing modes
 - Rescan preserves edited filenames and checkbox states
-- One-click undo after rename
+- One-click undo with batch rollback
 - UI in Simplified Chinese, Traditional Chinese, and English
 - Built-in update checker
 
@@ -52,22 +71,22 @@ Download the latest version for your platform from the [Releases](https://github
 
 <p align="center">
   <img src="screenshots/home.png" alt="Home" />
-  <br><sub>Home page</sub>
+  <br><sub>Home — Dark / Light mode</sub>
 </p>
 
 <p align="center">
-  <img src="screenshots/drag.png" alt="Drag & Drop" />
-  <br><sub>Drag and drop subtitle and video folders</sub>
+  <img src="screenshots/drag.png" alt="Select directories" />
+  <br><sub>Select subtitle and video directories, supports archives</sub>
 </p>
 
 <p align="center">
   <img src="screenshots/match.png" alt="Scan & Match" />
-  <br><sub>Auto-detect episode numbers and match</sub>
+  <br><sub>Recursive scan, auto-detect seasons & episodes</sub>
 </p>
 
 <p align="center">
   <img src="screenshots/review.png" alt="Review" />
-  <br><sub>Review matches and edit target filenames</sub>
+  <br><sub>Review results grouped by season, edit filenames</sub>
 </p>
 
 <p align="center">

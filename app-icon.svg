@@ -4,25 +4,13 @@
   <defs>
     <style>
       .st0 {
-        fill: url(#_未命名的渐变_34);
-      }
-
-      .st0, .st1 {
-        fill-rule: evenodd;
+        fill: #0B1120;
       }
 
       .st1 {
-        fill: url(#_未命名的渐变_28);
+        fill: #0B1120;
       }
     </style>
-    <linearGradient id="_未命名的渐变_28" data-name="未命名的渐变 28" x1="148.8" y1="545.18" x2="470.77" y2="240.41" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#4f46e5"/>
-      <stop offset="1" stop-color="#42d7b6"/>
-    </linearGradient>
-    <linearGradient id="_未命名的渐变_34" data-name="未命名的渐变 34" x1="403.6" y1="31.43" x2="98.99" y2="325.4" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#6f66ff"/>
-      <stop offset="1" stop-color="#17149d"/>
-    </linearGradient>
   </defs>
   <path class="st1" d="M381.27,246.55h162.53c19.32,0,24.58,9.95,11.76,22.23l-262.22,251.04c-12.82,12.28-38.88,22.23-58.19,22.23H72.61c-19.32,0-24.58-9.95-11.76-22.23l262.22-251.04c12.82-12.28,38.88-22.23,58.19-22.23Z"/>
   <path class="st0" d="M331.31,23.96h162.53c19.32,0,24.58,9.95,11.76,22.23l-262.22,251.04c-12.82,12.28-38.88,22.23-58.19,22.23H22.66c-19.32,0-24.58-9.95-11.76-22.23L273.12,46.19c12.82-12.28,38.88-22.23,58.19-22.23Z"/>
