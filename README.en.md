@@ -71,12 +71,12 @@ Download the latest version for your platform from the [Releases](https://github
 
 <p align="center">
   <img src="screenshots/home.png" alt="Home" />
-  <br><sub>Home — Dark / Light mode</sub>
+  <br><sub>Home page</sub>
 </p>
 
 <p align="center">
   <img src="screenshots/drag.png" alt="Select directories" />
-  <br><sub>Select subtitle and video directories, supports archives</sub>
+  <br><sub>Drag & drop or browse to select directories, supports archives</sub>
 </p>
 
 <p align="center">
@@ -86,12 +86,22 @@ Download the latest version for your platform from the [Releases](https://github
 
 <p align="center">
   <img src="screenshots/review.png" alt="Review" />
-  <br><sub>Review results grouped by season, edit filenames</sub>
+  <br><sub>Review results grouped by season, edit target filenames</sub>
 </p>
 
 <p align="center">
   <img src="screenshots/done.png" alt="Done" />
   <br><sub>Rename complete with undo and details</sub>
+</p>
+
+<p align="center">
+  <img src="screenshots/settings.png" alt="Settings" />
+  <br><sub>Language / appearance switcher, check for updates</sub>
+</p>
+
+<p align="center">
+  <img src="screenshots/dark.png" alt="Dark mode" />
+  <br><sub>Match editing interface in dark mode</sub>
 </p>
 
 ## Feedback

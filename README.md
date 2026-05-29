@@ -71,12 +71,12 @@
 
 <p align="center">
   <img src="screenshots/home.png" alt="首页" />
-  <br><sub>首页 — 深色 / 浅色模式</sub>
+  <br><sub>首页</sub>
 </p>
 
 <p align="center">
   <img src="screenshots/drag.png" alt="选择目录" />
-  <br><sub>选择字幕和视频目录，支持压缩包</sub>
+  <br><sub>拖放或浏览选择字幕/视频目录，支持压缩包</sub>
 </p>
 
 <p align="center">
@@ -86,12 +86,22 @@
 
 <p align="center">
   <img src="screenshots/review.png" alt="检查结果" />
-  <br><sub>按季分组查看结果、编辑目标文件名</sub>
+  <br><sub>按季分组查看匹配结果、编辑目标文件名</sub>
 </p>
 
 <p align="center">
   <img src="screenshots/done.png" alt="操作完成" />
   <br><sub>重命名完成，可撤销或查看详情</sub>
+</p>
+
+<p align="center">
+  <img src="screenshots/settings.png" alt="设置页面" />
+  <br><sub>语言 / 外观切换，检查更新</sub>
+</p>
+
+<p align="center">
+  <img src="screenshots/dark.png" alt="深色模式" />
+  <br><sub>深色模式下的匹配编辑界面</sub>
 </p>
 
 ## 反馈
